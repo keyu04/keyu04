@@ -58,8 +58,19 @@ Centralized authentication and authorization service using ASP.NET Core and JWT.
 
 ---
 
+## 🚧 Currently Working On
+
+- Real-time communication systems using SignalR & LiveKit
+- Authentication & Authorization services
+- Scalable backend architecture in ASP.NET Core
+  
 ## 🌱 Currently Learning
 
 - Advanced .NET Architecture
 - System Design
 - Docker & CI/CD
+
+## 📫 Connect With Me
+
+- LinkedIn: https://github.com/keyu04
+- Email: krhalpati@gmail.com
