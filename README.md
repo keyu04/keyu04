@@ -42,19 +42,21 @@ Currently working as a Backend Developer, contributing to:
 
 ## 🔥 Featured Projects
 
+### ZipCart Backend (AuthService, CatalogService, GlossaryService)
+Three independent microservices for a grocery delivery platform, sharing
+JWT-based authentication and consistent architecture (Clean Architecture,
+soft delete, EF Core transactions, Docker, API versioning, rate limiting).
+
+- AuthService — issues JWT tokens, BCrypt password hashing, role-based claims
+- CatalogService — categories, products, inventory with transactional writes
+- GlossaryService — product tags, search keyword/synonym mapping
+
 ### JobPortalApi
-Scalable ASP.NET Core backend system with:
-- JWT Authentication
-- Role-based Authorization
-- Repository Pattern
-- Pagination & Filtering
-- Global Exception Handling
+ASP.NET Core Job Portal API with JWT Authentication, Clean Architecture,
+Pagination & Role-based Authorization.
 
 ### BlobService
 AWS S3 based file upload service for image and media handling.
-
-### AuthService
-Centralized authentication and authorization service using ASP.NET Core and JWT.
 
 ---
 
