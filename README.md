@@ -74,5 +74,5 @@ AWS S3 based file upload service for image and media handling.
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://github.com/keyu04
+- LinkedIn: https://www.linkedin.com/in/keyurhalpati/
 - Email: krhalpati@gmail.com
